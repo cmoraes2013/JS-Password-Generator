@@ -23,7 +23,10 @@ textarea{
     padding-top: 25px;
 }
 #generate{
-    color: red;
+    color:fuchsia;
+}
+#copy{
+    color: fuchsia;
 }
 .card{
     border: darkgray 1px solid;
